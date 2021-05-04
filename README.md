@@ -2,6 +2,21 @@
 title: Sample Readme File
 description: This is a great starting point for your main README.md file for your new project
 ---
+
+## About this Template Repository
+
+This is a template repository to help you get up and running with some default files. To learn more about using templates, see
+the [github documentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/creating-a-repository-from-a-template#creating-a-repository-from-a-template). Ensure to set bcgov as the owner when creating the
+repository to keep it inside this organization. The following default files are included:
+
+- code of conduct
+- contributing
+- A default Apache 2.0 license, which is preferred for publishing code. See [here](https://github.com/bcgov/BC-Policy-Framework-For-GitHub/blob/master/BC-Open-Source-Development-Employee-Guide/Licenses.md) for more information about licensing for different repository types.
+- A template README
+- Compliance.yaml file to help identify your PIA and STRA status. See [here](https://github.com/bcgov/repomountie/blob/master/templates/why-comply.md#user-content-compliance) for more information.
+
+To complete your repository setup, fill in the readme template below and update compliance.yaml with your current status.
+
 ## Sample Readme File
 ---
 This readme serves as an example readme for a government open source project. A brief description of your project would go here.
@@ -15,6 +30,8 @@ This readme serves as an example readme for a government open source project. A 
 ## Installation
 
 ## Project Status
+
+You can include a lifecycle badge to indicate your status in this section. See [here](https://github.com/bcgov/repomountie/blob/master/doc/lifecycle-badges.md) for more information on adding badges.
 
 ## Goals/Roadmap
 
